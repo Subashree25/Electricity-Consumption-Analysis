@@ -4,7 +4,7 @@ This project focuses on analyzing and predicting household electricity consumpti
 
 **Dataset**
 Source: UCI Machine Learning Repository
-Records: 2,075,259 rows
+Records: 2,075,259 rows 
 Time Period: Dec 2006 → Nov 2010
 **Features:**
 Date & Time
