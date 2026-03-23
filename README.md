@@ -17,6 +17,7 @@ Sub-metering values
 
 
 Task 1 — Exploratory Data Analysis (EDA)
+
 Missing values: 25,979 per column
 Outliers detected: 14,376
 Key Insights:
